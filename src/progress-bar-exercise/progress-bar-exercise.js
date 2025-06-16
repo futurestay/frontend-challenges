@@ -5,7 +5,7 @@ const ProgressBarExercise = () => {
     <div className="progress-bar-exercise">
       <Exercise
         solution={<Solution />}
-        specsUrl="https://github.com/futurestay/frontend-challenges/issues/1"
+        specsUrl="https://github.com/futurestay/frontend-challenges/issues/21"
         title="Progress Bar Exercise"
       />
     </div>
